@@ -137,8 +137,8 @@ body,
   height: 100%;
 }
 body {
-  font-family: "微软雅黑", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: "Mirosoft Yahei", "Malgun Gothic", "MS Gothic", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
   background: #fff;
   color: rgba(0,0,0,0.6);
   -webkit-overflow-scrolling: touch;
@@ -149,10 +149,10 @@ h3 {
   display: block;
 }
 h1 {
-  font-size: 1.5em;
+  font-size: 1.4em;
 }
 h2 {
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 h3 {
   font-size: 1.1em;
@@ -1468,7 +1468,7 @@ a {
   padding: 10px 10px;
   overflow: auto;
   color: #4c4c4c;
-  line-height: 22.400000000000002px;
+  line-height: 19.200000000000003px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
 }
