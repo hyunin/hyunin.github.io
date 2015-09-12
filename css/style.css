@@ -150,17 +150,21 @@ h3 {
 }
 h1 {
   font-size: 1.4em;
+  font-style: bold;
 }
 h2 {
   font-size: 1.2em;
+  font-style: bold;
 }
 h3 {
   font-size: 1.1em;
+  font-style: bold;
 }
 h4,
 h5,
 h6 {
   font-size: 1em;
+  font-style: bold;
 }
 a {
   text-decoration: none;
@@ -978,7 +982,7 @@ a {
   margin: 0 3px;
   background: #ddd;
   border: 1px solid #ccc;
-  font-family: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
+  font-family: "Mirosoft Yahei", "Malgun Gothic", "MS Gothic", Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
   word-wrap: break-word;
   font-size: 14px;
 }
@@ -1025,9 +1029,11 @@ a {
 }
 .article-entry h1 {
   margin-top: 30px;
+  font-style: bold;
 }
 .article-entry h2 {
   margin-top: 20px;
+  font-style: bold;
   font-weight: 300;
   color: #574c4c;
   padding-bottom: 5px;
@@ -1038,6 +1044,7 @@ a {
 .article-entry h5,
 .article-entry h6 {
   margin-top: 20px;
+  font-style: bold;
   font-weight: 300;
   color: #574c4c;
   padding-bottom: 5px;
@@ -1073,7 +1080,7 @@ a {
   font-size: 10px;
   border: 1px solid #ccc;
   text-shadow: 0 1px #444;
-  font-family: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
+  font-family: "Mirosoft Yahei", "Malgun Gothic", "MS Gothic", Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
 }
 .article-entry pre code {
   font-size: 14px;
