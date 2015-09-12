@@ -998,7 +998,9 @@ a {
   margin-top: 0;
 }
 .article-entry em {
-  font-style: italic;
+  font-style: normal;
+  font-family: "Mirosoft Yahei", "Malgun Gothic", "MS Gothic", Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
+  font-size: 1em;
 }
 .article-entry ul li:before {
   content: "";
@@ -1033,8 +1035,7 @@ a {
 }
 .article-entry h2 {
   margin-top: 20px;
-  font-style: bold;
-  font-weight: 300;
+  font-weight: bold;
   color: #574c4c;
   padding-bottom: 5px;
   border-bottom: 1px solid #ddd;
@@ -1044,8 +1045,7 @@ a {
 .article-entry h5,
 .article-entry h6 {
   margin-top: 20px;
-  font-style: bold;
-  font-weight: 300;
+  font-weight: bold;
   color: #574c4c;
   padding-bottom: 5px;
   border-bottom: 1px solid #ddd;
